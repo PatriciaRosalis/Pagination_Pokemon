@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}  
+
+button {
+  border: none;
+  width: 90px;
+  height: 35px;
+  background: yellowgreen;
+  color: white;
+  font-size: 18px;
+  border-radius: 18px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.button-container{
+  height: 38px;
+  margin: 10px;
+}
